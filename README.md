@@ -17,3 +17,5 @@ Deletes the document's body, might be useful (but probably not).
 Literally just a big middle finger to people peering at your tabs.
 ### Freeze Tab
 Causes the tab to just freeze.
+### Glitch Tab
+Makes an alert pop up over and over again, but you can close the tab to stop it.
