@@ -6,7 +6,7 @@
 Embed a website into an about:blank page.
 ### History Flooder
 Flood your history with the website you're on a specified number of times.
-## 📂 Tab-Related
+## 📂 Tab Related
 ### Edit Tab
 Set the tab's name & favicon to whatever you please.
 ### Tab Cloak
