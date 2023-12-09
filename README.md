@@ -10,3 +10,5 @@ Flood your history with the website you're on a specified number of times.
 Set the tab's name & favicon to whatever you please.
 ### Tab Cloak
 Change the tab's name & favicon to nothing.
+### Kill Tab
+Deletes the document's body, might be useful (but probably not).
