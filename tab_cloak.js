@@ -7,5 +7,4 @@ javascript:(function(){
                 document.head.appendChild(icon);
             }
             icon.href = 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1024px-HD_transparent_picture.png';
-
 })();
