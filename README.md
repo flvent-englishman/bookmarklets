@@ -14,3 +14,5 @@ Change the tab's name & favicon to nothing.
 Deletes the document's body, might be useful (but probably not).
 ### Tab Spam
 Literally just a big middle finger to people peering at your tabs.
+### Freeze Tab
+Causes the tab to just freeze.
