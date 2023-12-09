@@ -3,4 +3,4 @@ javascript:(function(){
         if (verify == true) {
             document.body.remove();
         }
-}
+})();
