@@ -12,3 +12,5 @@ Set the tab's name & favicon to whatever you please.
 Change the tab's name & favicon to nothing.
 ### Kill Tab
 Deletes the document's body, might be useful (but probably not).
+### Tab Spam
+Literally just a big middle finger to people peering at your tabs.
