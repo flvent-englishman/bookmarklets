@@ -18,4 +18,4 @@ Literally just a big middle finger to people peering at your tabs.
 ### Freeze Tab
 Causes the tab to just freeze.
 ### Glitch Tab
-Makes an alert pop up over and over again, but you can close the tab to stop it.
+Makes an alert pop up over and over, but you can close the tab to stop it.
