@@ -6,16 +6,16 @@
 Embed a website into an about:blank page.
 ### History Flooder
 Flood your history with the website you're on a specified number of times.
+### Spam Tabs
+Spam open a bunch of tabs.
 ## 📂 Tab Related
-### Edit Tab
+### Cloak Tab
 Set the tab's name & favicon to whatever you please.
-### Tab Cloak
+### Hide Tab
 Change the tab's name & favicon to nothing.
 ### Kill Tab
 Deletes the document's body, might be useful (but probably not).
-### Tab Spam
-Literally just a big middle finger to people peering at your tabs.
 ### Freeze Tab
-Causes the tab to just freeze.
+Causes the tab you're on to just freeze.
 ### Glitch Tab
-Makes an alert pop up over and over, but you can close the tab to stop it.
+Makes an alert pop up over and over: making the tab unusable (you can, however, simply close the tab to stop it).
