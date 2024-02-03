@@ -1,5 +1,5 @@
     javascript:(function(){
-        const verify = confirm('Are you sure you want to spam tabs?');
+        const verify = confirm('Are you sure you want to spam tabs? It may freeze your computer.');
         if (verify == true) {
             const website = prompt('What website do you want to spam? Input "n" for a term instead.');
             if (website == 'n') {
